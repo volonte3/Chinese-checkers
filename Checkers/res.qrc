@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/chess1.png</file>
+        <file>res/chess2.png</file>
+        <file>res/game.ico</file>
+        <file>res/map.png</file>
+        <file>res/firstmap.png</file>
+        <file>res/chess1sel.png</file>
+        <file>res/chess2sel.png</file>
+        <file>res/sel.wav</file>
+        <file>res/set.wav</file>
+        <file>res/fsel.wav</file>
+        <file>res/still.wav</file>
+        <file>res/warning.wav</file>
+        <file>res/okset.png</file>
+        <file>res/blue.png</file>
+        <file>res/green.png</file>
+        <file>res/player.png</file>
+    </qresource>
+</RCC>
